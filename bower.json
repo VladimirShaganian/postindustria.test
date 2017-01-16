@@ -1,0 +1,22 @@
+{
+  "name": "postindustria.test",
+  "description": "test",
+  "main": "",
+  "authors": [
+    "Vladimir Shaganian <v.shaganian@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "postindustria.shaganian.pp.ua",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "system",
+    "vendor"
+  ],
+  "dependencies": {
+    "jquery": "",
+    "bootstrap": "",
+    "jquery-validation": ""
+  }
+}
